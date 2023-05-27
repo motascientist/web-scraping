@@ -1,0 +1,1 @@
+# The Objective of This Scraper is Analyse the cookery trends
